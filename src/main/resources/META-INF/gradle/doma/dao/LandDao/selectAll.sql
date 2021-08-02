@@ -1,0 +1,1 @@
+select lid, lname, status from lands

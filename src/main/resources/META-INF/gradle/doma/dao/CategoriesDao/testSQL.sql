@@ -1,0 +1,1 @@
+SELECT * FROM categories WHERE cid IN(/*cat.cid*/1)

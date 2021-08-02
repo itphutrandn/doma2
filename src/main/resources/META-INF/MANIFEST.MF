@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: My Spring Boot Application
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Sunil Singh Bora
+Implementation-Vendor-Id: com.boraji.tutorial.springboot
+Build-Jdk: 1.8.0_71
+Implementation-URL: http://projects.spring.io/spring-boot/spring-boot-
+ banner-example/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
